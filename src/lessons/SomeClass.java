@@ -1,4 +1,5 @@
 package lessons;
+import java.lang.*;
 class SomeClass {
     private   String str = "hello world!!";
     public  String getStr(){
